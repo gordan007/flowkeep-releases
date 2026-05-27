@@ -14,5 +14,17 @@
       type="application/octet-stream"
       sparkle:edSignature="Pql8pNpEkZaJ6+LpR7kGwzfaeu0V0nwjv7vpqXTP/zo1P0BdHKOWRbggVCX8jB2s/ean7qQb8ydctqb60e7sCQ==" />
   </item>
-  </channel>
+    <item>
+    <title>Version 1.0.0</title>
+    <pubDate>Wed, 27 May 2026 13:35:25 +0000</pubDate>
+    <sparkle:version>1</sparkle:version>
+    <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+    <enclosure
+      url="https://github.com/gordan007/flowkeep-releases/releases/download/v1.0.0/FlowKeep-1.0.0.dmg"
+      length="3276457"
+      type="application/octet-stream"
+      sparkle:edSignature="7koenx/lMQecPc5ZfatdIXJSTdH8Hp1fhSbyD7IrmiEvHMeiEwGuFpy2kEjVxhzbdfADLW7f7XrFluXooA2tBw==" />
+  </item>
+</channel>
 </rss>
