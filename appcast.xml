@@ -2,65 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>FlowKeep Changelog</title>
-  <item>
-    <title>Version 1.0.0</title>
-    <pubDate>Wed, 27 May 2026 13:13:37 +0000</pubDate>
-    <sparkle:version>1</sparkle:version>
-    <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-    <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-    <enclosure
-      url="https://github.com/gordan007/flowkeep-releases/releases/download/v1.0.0/FlowKeep-1.0.0.dmg"
-      length="3276354"
-      type="application/octet-stream"
-      sparkle:edSignature="Pql8pNpEkZaJ6+LpR7kGwzfaeu0V0nwjv7vpqXTP/zo1P0BdHKOWRbggVCX8jB2s/ean7qQb8ydctqb60e7sCQ==" />
-  </item>
     <item>
-    <title>Version 1.0.0</title>
-    <pubDate>Wed, 27 May 2026 13:35:25 +0000</pubDate>
-    <sparkle:version>1</sparkle:version>
-    <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-    <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-    <enclosure
-      url="https://github.com/gordan007/flowkeep-releases/releases/download/v1.0.0/FlowKeep-1.0.0.dmg"
-      length="3276457"
-      type="application/octet-stream"
-      sparkle:edSignature="7koenx/lMQecPc5ZfatdIXJSTdH8Hp1fhSbyD7IrmiEvHMeiEwGuFpy2kEjVxhzbdfADLW7f7XrFluXooA2tBw==" />
-  </item>
-  <item>
-    <title>Version 1.0.0</title>
-    <pubDate>Wed, 27 May 2026 13:51:42 +0000</pubDate>
-    <sparkle:version>1</sparkle:version>
-    <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-    <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-    <enclosure
-      url="https://github.com/gordan007/flowkeep-releases/releases/download/v1.0.0/FlowKeep-1.0.0.dmg"
-      length="1453350"
-      type="application/octet-stream"
-      sparkle:edSignature="gQgVxELxCk5tzcpv96FkZr6TM/UsvlrvGY8DamTEzN71XbreZ2j9hAa7YkO09ZunCc22gh3kKfH3KPIas+dECA==" />
-  </item>
-  <item>
-    <title>Version 1.0.0</title>
-    <pubDate>Wed, 27 May 2026 20:24:40 +0000</pubDate>
-    <sparkle:version>1</sparkle:version>
-    <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-    <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-    <enclosure
-      url="https://github.com/gordan007/flowkeep-releases/releases/download/v1.0.0/FlowKeep-1.0.0.dmg"
-      length="1137667"
-      type="application/octet-stream"
-      sparkle:edSignature="2YHxhyvkyly1KU7Ajq8lImC/lPkYZntUH/Zxde8ylJU6/X5wY32yfQvyzRUyVwkSFbY6ngJbhuLr0VGeljPlDQ==" />
-  </item>
-  <item>
-    <title>Version 1.0.1</title>
-    <pubDate>Thu, 28 May 2026 07:51:33 +0000</pubDate>
-    <sparkle:version>2</sparkle:version>
-    <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-    <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-    <enclosure
-      url="https://github.com/gordan007/flowkeep-releases/releases/download/v1.0.1/FlowKeep-1.0.1.dmg"
-      length="1064972"
-      type="application/octet-stream"
-      sparkle:edSignature="Opyeu4xnS0K77zTu2WfWr/vSx2o1JMo7Q8zgMUcb/oJeZCsupH3w+2Gx+bZclkJWqZ/2TOS2B9/rb5ui03GHAw==" />
-  </item>
-</channel>
+      <title>Version 1.0.1</title>
+      <pubDate>Thu, 28 May 2026 15:10:20 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/gordan007/flowkeep-releases/releases/download/v1.0.1/FlowKeep-1.0.1.dmg"
+        length="1063926"
+        type="application/octet-stream"
+        sparkle:edSignature="+XTHp57HUvR4X7LufwusTqXAsalBx9FP9cru4HLid1HsA/0ywbmCfZchKSi5M4PKviSfSJVFa3MMgS97nsgoCA==" />
+    </item>
+  </channel>
 </rss>
