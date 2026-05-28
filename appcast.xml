@@ -3,6 +3,18 @@
   <channel>
     <title>FlowKeep Changelog</title>
     <item>
+      <title>Version 1.1.0</title>
+      <pubDate>Thu, 28 May 2026 17:52:56 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/gordan007/flowkeep-releases/releases/download/v1.1.0/FlowKeep-1.1.0.dmg"
+        length="1066884"
+        type="application/octet-stream"
+        sparkle:edSignature="bbsAktgremKgDRcwJbpX+RsaqpdxNzS0tCZisw5Rvg1MhMwpSAn4ZeiXKyv7AbirpLf2/MtOHJK++YLWRb1bDg==" />
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <pubDate>Thu, 28 May 2026 15:38:52 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
