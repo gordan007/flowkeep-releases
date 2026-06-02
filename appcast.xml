@@ -2,7 +2,19 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>FlowKeep Changelog</title>
+    
     <item>
+      <title>Version 1.1.1</title>
+      <link>https://flowkeep.dev/download</link>
+      <pubDate>Tue, 02 Jun 2026 09:52:32 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:tags>
+        <sparkle:informationalUpdate/>
+      </sparkle:tags>
+    </item>
+<item>
       <title>Version 1.1.0</title>
       <link>https://flowkeep.dev/download</link>
       <pubDate>Thu, 28 May 2026 17:52:56 +0000</pubDate>
